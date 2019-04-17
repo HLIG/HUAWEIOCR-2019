@@ -40,8 +40,9 @@ source activate pixel_link
 进入HUAWEI_OCR2019/detection安装检测的环境并激活，设该终端为**文字识别终端**
 
 ```
-conda create --name ocr_densenet --file recognition.txt
+conda create --name ocr_densenet python=2.7
 source activate ocr_densenet
+pip install recognition.txt
 ```
 
 
