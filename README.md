@@ -112,12 +112,12 @@ https://pan.baidu.com/s/1LVbfVa5ieibFg_X6iIuWfw
 
 ### 检测效果图
 
-![1555482830163](https://github.com/HLIG/HUAWEIOCR-2019/tree/master/readmeimg/1555482830163.png)
+![1555482830163](https://github.com/HLIG/HUAWEIOCR-2019/blob/master/readmeimg/1555482830163.png)
 
-![1555482850757](https://github.com/HLIG/HUAWEIOCR-2019/tree/master/readmeimg/1555482850757.png)
+![1555482850757](https://github.com/HLIG/HUAWEIOCR-2019/blob/master/readmeimg/1555482850757.png)
 
 
 
 ### 识别效果图 
 
-![1555482792330](https://github.com/HLIG/HUAWEIOCR-2019/tree/master/readmeimg/1555482792330.png)
+![1555482792330](https://github.com/HLIG/HUAWEIOCR-2019/blob/master/readmeimg/1555482792330.png)
