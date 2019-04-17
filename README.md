@@ -1,3 +1,11 @@
+文字检测主要使用了浙大的pixellink
+
+<https://github.com/ZJULearning/pixel_link>
+
+在文字识别OCR模型上使用西安交通大学人工智能实践大赛第一名@ yinchangchang 的方案<https://github.com/yinchangchang/ocr_densenet>
+
+针对本比赛的数据集，对代码进行了修改，改进的细节见代码和参考技术报告
+
 # 安装步骤
 
 ## 1、首先代码的文件分为四个部分：
