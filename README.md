@@ -51,11 +51,13 @@ pip install recognition.txt
 
 从百度云下载文字识别网络权重文件，放到路径HUAWEI_OCR2019\recognition\densenet\model下
 
-至此，文字检测和文字识别的环境都装好了。
-
 https://pan.baidu.com/s/1LVbfVa5ieibFg_X6iIuWfw 
 
 提取码：e8rd
+
+至此，文字检测和文字识别的环境都装好了。
+
+
 
 ## 3、测试及相关命令
 
