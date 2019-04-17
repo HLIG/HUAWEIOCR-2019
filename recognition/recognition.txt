@@ -1,0 +1,47 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+backports-functools-lru-cache=1.5=pypi_0
+ca-certificates=2019.1.23=0
+certifi=2019.3.9=py27_0
+cycler=0.10.0=pypi_0
+decorator=4.3.2=pypi_0
+functools32=3.2.3.post2=pypi_0
+fuzzywuzzy=0.17.0=pypi_0
+kiwisolver=1.0.1=pypi_0
+libedit=3.1.20181209=hc058e9b_0
+libffi=3.2.1=hd88cf55_4
+libgcc-ng=8.2.0=hdf63c60_1
+libstdcxx-ng=8.2.0=hdf63c60_1
+lxml=4.3.2=pypi_0
+matplotlib=2.0.2=pypi_0
+ncurses=6.1=he6710b0_1
+networkx=2.2=pypi_0
+numpy=1.14.2=pypi_0
+openssl=1.1.1b=h7b6447c_1
+pandas=0.24.1=pypi_0
+pillow=5.4.1=pypi_0
+pip=19.0.3=py27_0
+py=1.4.34=pypi_0
+pyparsing=2.3.1=pypi_0
+pytest=3.2.1=pypi_0
+python=2.7.16=h9bab390_0
+python-dateutil=2.8.0=pypi_0
+pytils=0.3=pypi_0
+pytz=2018.9=pypi_0
+pywavelets=1.0.2=pypi_0
+readline=7.0=h7b6447c_5
+scikit-image=0.13.0=pypi_0
+scikit-learn=0.19.1=pypi_0
+scipy=0.19.0=pypi_0
+setuptools=40.8.0=py27_0
+six=1.12.0=pypi_0
+sqlite=3.27.2=h7b6447c_0
+subprocess32=3.5.3=pypi_0
+tk=8.6.8=hbc83047_0
+tools=0.1.9=pypi_0
+torch=1.0.1.post2=pypi_0
+torchvision=0.2.0=pypi_0
+tqdm=4.19.4=pypi_0
+wheel=0.33.1=py27_0
+zlib=1.2.11=h7b6447c_3

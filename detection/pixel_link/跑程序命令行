@@ -1,0 +1,4 @@
+#跑测试图片
+ ./scripts/test_any.sh 3 checkpoint/model.ckpt-146343 ../../intermediate_file/padding_images_to_detection
+
+

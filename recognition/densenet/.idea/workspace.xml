@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27c3318c-f551-4b70-8c74-760ad700a5c9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/code/ocr_densenet/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/ocr_densenet/code/ocr/dataloader.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ocr_densenet/code/ocr/dataloader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/ocr_densenet/code/ocr/densenet.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ocr_densenet/code/ocr/densenet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/ocr_densenet/code/ocr/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ocr_densenet/code/ocr/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/ocr_densenet/code/ocr/tools/parse.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ocr_densenet/code/ocr/tools/parse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/ocr_densenet/code/preprocessing/analysis_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ocr_densenet/code/preprocessing/analysis_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/ocr_densenet/code/preprocessing/map_word_to_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ocr_densenet/code/preprocessing/map_word_to_index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/ocr_densenet/files/alphabet_count_dict.json" beforeDir="false" afterPath="$PROJECT_DIR$/code/ocr_densenet/files/alphabet_count_dict.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/ocr_densenet/files/alphabet_index_dict.json" beforeDir="false" afterPath="$PROJECT_DIR$/code/ocr_densenet/files/alphabet_index_dict.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/ocr_densenet/files/image_hw_ratio_dict.json" beforeDir="false" afterPath="$PROJECT_DIR$/code/ocr_densenet/files/image_hw_ratio_dict.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/ocr_densenet/files/src/A81.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/ocr_densenet/files/src/B1000_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/ocr_densenet/files/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/code/ocr_densenet/files/train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/ocr_densenet/files/train_alphabet.json" beforeDir="false" afterPath="$PROJECT_DIR$/code/ocr_densenet/files/train_alphabet.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="967730363">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="116" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="116" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/ocr_densenet/code/ocr/main1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="47" column="11" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/ocr_densenet/code/ocr/tools/parse.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1425">
+              <caret line="95" column="29" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/ocr_densenet/code/ocr/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4020">
+              <caret line="295" column="43" selection-start-line="295" selection-start-column="43" selection-end-line="295" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code/ocr_densenet/code/ocr/dataloader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="882">
+              <caret line="542" column="23" selection-start-line="542" selection-start-column="23" selection-end-line="542" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>64</find>
+      <find>file</find>
+      <find>file.</find>
+      <find>datadir</find>
+      <find>image-label-json</find>
+      <find>json</find>
+      <find>resume</find>
+      <find>start_epoch</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/code/ocr_densenet" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/code/ocr_densenet/code/ocr/tools/parse.py" />
+        <option value="$PROJECT_DIR$/code/ocr_densenet/code/ocr/main.py" />
+        <option value="$PROJECT_DIR$/code/ocr_densenet/code/ocr/dataloader.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="62" />
+    <option name="y" value="24" />
+    <option name="width" value="928" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="densenet-214" type="b2602c69:ProjectViewProjectNode" />
+              <item name="densenet-214" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="densenet-214" type="b2602c69:ProjectViewProjectNode" />
+              <item name="densenet-214" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="densenet-214" type="b2602c69:ProjectViewProjectNode" />
+              <item name="densenet-214" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="ocr_densenet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="densenet-214" type="b2602c69:ProjectViewProjectNode" />
+              <item name="densenet-214" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="ocr_densenet" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="densenet-214" type="b2602c69:ProjectViewProjectNode" />
+              <item name="densenet-214" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="ocr_densenet" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="ocr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="densenet-214" type="b2602c69:ProjectViewProjectNode" />
+              <item name="densenet-214" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="ocr_densenet" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="ocr" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="densenet-214" type="b2602c69:ProjectViewProjectNode" />
+              <item name="densenet-214" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="ocr_densenet" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../myNet" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in main.py">
+    <configuration name="pytest for main.test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="densenet-214" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/ocr_densenet/code/ocr" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;main.test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in main.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="densenet-214" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/ocr_densenet/code/ocr" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/code/ocr_densenet/code/ocr/main.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest in main.py" />
+      <item itemvalue="Python tests.pytest for main.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in main.py" />
+        <item itemvalue="Python tests.pytest for main.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27c3318c-f551-4b70-8c74-760ad700a5c9" name="Default Changelist" comment="" />
+      <created>1553047840731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553047840731</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_main_py - 2019.03.20 at 10h 33m 22s.xml">
+      <configuration name="pytest in main.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_main_py - 2019.03.20 at 10h 34m 02s.xml">
+      <configuration name="pytest in main.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_main_py - 2019.03.20 at 10h 35m 07s.xml">
+      <configuration name="pytest in main.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_main_py - 2019.03.20 at 10h 36m 39s.xml">
+      <configuration name="pytest in main.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_main_py - 2019.03.20 at 10h 39m 31s.xml">
+      <configuration name="pytest in main.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_main_py - 2019.03.20 at 10h 40m 01s.xml">
+      <configuration name="pytest in main.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_main_test - 2019.03.20 at 10h 40m 57s.xml">
+      <configuration name="pytest for main.test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_main_py - 2019.03.20 at 10h 42m 17s.xml">
+      <configuration name="pytest in main.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12322792" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24765868" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/code/ocr_densenet/code/ocr/main1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="47" column="11" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/ocr_densenet/code/ocr/tools/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="95" column="29" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/ocr_densenet/code/ocr/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4020">
+          <caret line="295" column="43" selection-start-line="295" selection-start-column="43" selection-end-line="295" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/ocr_densenet/code/ocr/dataloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="542" column="23" selection-start-line="542" selection-start-column="23" selection-end-line="542" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
