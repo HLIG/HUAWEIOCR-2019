@@ -107,3 +107,19 @@ https://pan.baidu.com/s/1LVbfVa5ieibFg_X6iIuWfw
    功能：将未填充检测结果`unpadding_detect_result.csv`和识别结果`result.csv`文件组合为一个可提交的`predict.csv`文件，输出最终结果到`unzip_path/HUAWEI_OCR2019/intermediate_file/final_result/`文件夹下
 
 在`unzip_path/HUAWEI_OCR2019/intermediate_file/final_result`文件夹下即为最终提交的`predict.csv`结果
+
+
+
+### 检测效果图
+
+![1555482830163](C:\Users\10235\AppData\Roaming\Typora\typora-user-images\1555482830163.png)
+
+![1555482850757](C:\Users\10235\AppData\Roaming\Typora\typora-user-images\1555482850757.png)
+
+
+
+
+
+### 识别效果图
+
+![1555482792330](C:\Users\10235\AppData\Roaming\Typora\typora-user-images\1555482792330.png)
