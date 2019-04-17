@@ -120,4 +120,4 @@ https://pan.baidu.com/s/1LVbfVa5ieibFg_X6iIuWfw
 
 ### 识别效果图 
 
-![1555482792330](https://github.com/HLIG/HUAWEIOCR-2019/readmeimg/1555482792330.png)
+![1555482792330](https://github.com/HLIG/HUAWEIOCR-2019/tree/master/readmeimg/1555482792330.png)
