@@ -6,6 +6,10 @@
 
 针对本比赛的数据集，对代码进行了修改，改进的细节见代码和参考技术报告
 
+<https://discussion.datafountain.cn/questions/1571/answers/22399>
+
+
+
 # 安装步骤
 
 ## 1、首先代码的文件分为四个部分：
